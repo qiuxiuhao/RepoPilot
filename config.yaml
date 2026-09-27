@@ -1,0 +1,6 @@
+llm:
+  provider: deepseek
+  model: deepseek-flash
+  base_url: https://api.deepseek.com
+  reasoning_effort: low
+  max_output_tokens: 1024
